@@ -1,6 +1,6 @@
 [![Header](https://github.com/yevheniisukhominskiy/yevheniisukhominskiy/blob/main/assets/Artboard%201.png)](https://www.linkedin.com/in/yevhenii-sukhominskiy-a8b865251/)
 
-### About me
+
 I am seventeen years old and i am beginer a Software Engeneer. I am studying at the best Ukrainian University of Telecommunications. I love Ukraine🇺🇦 and I glad to see you in my profile.
 
 
