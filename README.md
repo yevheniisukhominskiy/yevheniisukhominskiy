@@ -1,8 +1,10 @@
 [![Header](https://github.com/yevheniisukhominskiy/yevheniisukhominskiy/blob/main/assets/Artboard%201.png)](https://www.linkedin.com/in/yevhenii-sukhominskiy-a8b865251/)
 
-##About me
+### About me
 
-## Languages and Tools
+
+
+### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=&logoColor=47C5FB)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=097CDB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=F8C52C)
@@ -12,3 +14,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/suhoooooy)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yevhenii-sukhominskiy-a8b865251/)
 [![Monobank](https://img.shields.io/badge/-Monobank-090909?style=for-the-badge&logo=Monobank&logoColor=1195F5)](https://send.monobank.ua/jar/5ahmnawaLh)
+
+### Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyshpavda)](https://github.com//github-readme-stats)
