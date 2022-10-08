@@ -16,4 +16,4 @@
 [![Monobank](https://img.shields.io/badge/-Monobank-090909?style=for-the-badge&logo=Monobank&logoColor=1195F5)](https://send.monobank.ua/jar/5ahmnawaLh)
 
 ### Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyshpavda)](https://github.com//github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yevheniisukhominskiy )](https://github.com/anuraghazra/github-readme-stats)
