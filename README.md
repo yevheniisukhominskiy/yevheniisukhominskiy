@@ -12,7 +12,6 @@ As a developer, I am at the beginning of what I hope will be a long and fulfilli
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yevhenii_sukhominskiy)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yevhenii-sukhominskiy-a8b865251/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yevhenii-sukhominskiy-a8b865251/)
 
 ### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yevheniisukhominskiy )](https://github.com/anuraghazra/github-readme-stats)
