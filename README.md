@@ -1,4 +1,4 @@
-[![Header]([https://github.com/yevheniisukhominskiy/yevheniisukhominskiy/blob/main/assets/Artboard%201.png](https://github.com/yevheniisukhominskiy/yevheniisukhominskiy/blob/main/Evhenii%20Sukhominskiy.png))](https://www.linkedin.com/in/yevhenii-sukhominskiy-a8b865251/)
+[![Header](https://github.com/yevheniisukhominskiy/yevheniisukhominskiy/blob/main/Evhenii%20Sukhominskiy.png?raw=true)](https://www.linkedin.com/in/yevhenii-sukhominskiy-a8b865251/)
 
 As a developer, I am at the beginning of what I hope will be a long and fulfilling career. I believe that gaining practical experience is a valuable benefit of any job and I am eager to work alongside a team of professional software engineers and benefit from their expertise. I am committed to maximizing my productivity and adding value to any project that I am a part of. My goal is to gain high-quality technical and organizational experience while working with a positive team that fosters growth and collaboration. I glad to see you in my profile.
 
