@@ -1,10 +1,10 @@
 #### Sup? I'm Eugene👋
 
-***A Backend Java Developer***
+***A Embedded Systems Developer***
 
-I am looking for beautiful solutions to complex problems. Always up for learning new technologies and frameworks. Ready for cooperation.
+I work on developing firmware and solutions for embedded systems. Always learning new technologies and approaches to improve my skills in this field.
 
 * 📚Studying Software Engineer at *[State University of Information and Communication Technologies](https://duikt.edu.ua/)*
-* ⌨️Currently working on a personal project using Java.
+* ⌨️Currently working on projects involving microcontrollers and various communication protocols.
 
-Feel free to contact.
+Looking forward to collaboration and new connections!
